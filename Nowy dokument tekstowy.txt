@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 
 <h1>Taconafide - Tamagotchi</h1>
 
@@ -25,4 +25,10 @@ Fani lubią, kiedy znów cierpisz
 Piję łychę, piszę płytę, czeka room service, woah
 Ściany milczą, niby król Kendrick
 Młody Fifi - pół Biggie, pół Elvis
+
+Pić, jeść, spać, jak Tamagotchi, tylko...
+Pić, jeść, spać, jak Tamagotchi, tylko...
+Pić, jeść, spać, jak Tamagotchi, tylko...
+Pić, jeść, spać, jak Tamagotchi, tylko...
+
 </html>
